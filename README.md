@@ -29,7 +29,7 @@
 
 
 # 📊 GitHub Stats:
-![](https://nirzak-streak-stats.vercel.app/?user=karl2603&theme=dark&hide_border=false)<br/>
+![Karl's GitHub stats](https://github-readme-stats.vercel.app/api?username=karl2603&show_icons=true)<br/>
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=karl2603&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
