@@ -40,7 +40,7 @@
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=karl2603&theme=dark&hide_border=false)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karl2603&exclude_repo=resume-analyzer)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=karl2603&exclude_repo=resume-analyzer&hide=python&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
