@@ -53,7 +53,7 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=karl2603&show_icons=true&theme=tokyonight)
 ![GitHub Streak](https://streak-stats.demolab.com?user=karl2603&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=karl2603&layout=compact&theme=tokyonight&exclude_repo=Resume_Analyzer)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=karl2603&layout=compact&theme=tokyonight&exclude_repo=Resume_Analyzer,Novaport-AI)
 
 ---
 
