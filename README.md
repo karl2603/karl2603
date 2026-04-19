@@ -1,11 +1,13 @@
 # 👨‍💻 About Me:
 💻 I build Full-Stack Web Applications <br><br>
 🧠 Ask me about Full-Stack Development<br><br>
+🌐 Visit my Portfolio website at: <a href="https://karl-arvindraj-portfolio.vercel.app/">Portfolio</a> <br><br>
 📬 How to reach me: arvindrajkarl@gmail.com
 
 ---
 
 ## 🌐 Socials:
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=google-chrome&logoColor=white)](https://karl-arvindraj-portfolio.vercel.app/)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/_._karl_._/) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karlarvindraj/) 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arvindrajkarl@gmail.com)
@@ -31,6 +33,7 @@
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ## ⬢ Backend & Database
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/springboot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
 ![JDBC](https://img.shields.io/badge/JDBC-%23007396.svg?style=for-the-badge&logo=java&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
@@ -42,19 +45,15 @@
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
+![Render](https://img.shields.io/badge/render-%23000000.svg?style=for-the-badge&logo=render&logoColor=white)
 
 ---
 
 # 📊 GitHub Stats
 
-<!-- Fix 1: Use consistent theme + remove unstable params -->
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=karl2603&show_icons=true&theme=tokyonight)
-
-<!-- Fix 2: Streak works fine already -->
 ![GitHub Streak](https://streak-stats.demolab.com?user=karl2603&theme=tokyonight)
-
-<!-- Fix 3: Clean top languages -->
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=karl2603&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=karl2603&layout=compact&theme=tokyonight&exclude_repo=Resume_Analyzer)
 
 ---
 
