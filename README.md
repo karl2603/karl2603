@@ -1,7 +1,7 @@
 # 👨‍💻 About Me:
 💻 I build Full-Stack Web Applications <br><br>
 🧠 Ask me about Full-Stack Development<br><br>
-🌐 Visit my Portfolio website at: <a href="https://karl-arvindraj-portfolio.vercel.app/">Portfolio</a> <br><br>
+🌐 Visit my Portfolio website at: <a href="https://www.karlarvindraj.dev">Portfolio</a> <br><br>
 📬 How to reach me: arvindrajkarl@gmail.com
 
 ---
